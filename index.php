@@ -27,7 +27,7 @@
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
  */
- /*Hello yeah yeah yeah yaeh yeah*/
+ /*Hello wewenwnewenwemnwemnwmenwemnwemnwenwmen*/
 
 if (defined('ENVIRONMENT'))
 {
